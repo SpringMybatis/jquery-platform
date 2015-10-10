@@ -1,0 +1,192 @@
+.ux-desktop-shortcut{
+	width:100px;
+}
+.ux-desktop-shortcut-text{
+	font-size: 11pt;
+	font-family:Î¢ÈíÑÅºÚ;
+}
+.ux-desktop-shortcut-icon{
+	width: 64px;
+    	height: 64px;
+	margin:0 auto;
+}
+.address{
+	background-image: url(../image/address.png) !important;
+}
+.customers{
+	background-image: url(../image/customers.png) !important;
+}
+.good{
+	background-image: url(../image/good.png) !important;
+}
+.goodtype{
+	background-image: url(../image/goodtype.png) !important;
+}
+.order{
+	background-image: url(../image/order.png) !important;
+}
+.order_detail{
+	background-image: url(../image/order_detail.png) !important;
+}
+.notice{
+	background-image: url(../image/notice.png) !important;
+}
+.feedback{
+	background-image: url(../image/feedback.png) !important;
+}
+.admin{
+	background-image: url(../image/admin.png) !important;
+}
+.address_48_48{
+	background-image: url(../image/address-48.png) !important;
+}
+.customers_48_48{
+	background-image: url(../image/customers-48.png) !important;
+}
+.good_48_48{
+	background-image: url(../image/good-48.png) !important;
+}
+.goodtype_48_48{
+	background-image: url(../image/goodtype-48.png) !important;
+}
+.order_48_48{
+	background-image: url(../image/order-48.png) !important;
+}
+.order_detail_48_48{
+	background-image: url(../image/order_detail-48.png) !important;
+}
+.notice_48_48{
+	background-image: url(../image/notice-48.png) !important;
+}
+.feedback_48_48{
+	background-image: url(../image/feedback-48.png) !important;
+}
+.admin_48_48{
+	background-image: url(../image/admin-48.png) !important;
+}
+.address_64_64{
+	background-image: url(../image/address-64.png) !important;
+}
+.customers_64_64{
+	background-image: url(../image/customers-64.png) !important;
+}
+.good_64_64{
+	background-image: url(../image/good-64.png) !important;
+}
+.goodtype_64_64{
+	background-image: url(../image/goodtype-64.png) !important;
+}
+.order_64_64{
+	background-image: url(../image/order-64.png) !important;
+}
+.order_detail_64_64{
+	background-image: url(../image/order_detail-64.png) !important;
+}
+.notice_64_64{
+	background-image: url(../image/notice-64.png) !important;
+}
+.feedback_64_64{
+	background-image: url(../image/feedback-64.png) !important;
+}
+.admin_64_64{
+	background-image: url(../image/admin-64.png) !important;
+}
+.buss_1_64_64{
+	background-image: url(../image/buss-1-64.png) !important;
+}
+.buss_2_64_64{
+	background-image: url(../image/buss-2-64.png) !important;
+}
+.buss_3_64_64{
+	background-image: url(../image/buss-3-64.png) !important;
+}
+.buss_4_64_64{
+	background-image: url(../image/buss-4-64.png) !important;
+}
+.buss_5_64_64{
+	background-image: url(../image/buss-5-64.png) !important;
+}
+.buss_6_64_64{
+	background-image: url(../image/buss-6-64.png) !important;
+}
+.buss_7_64_64{
+	background-image: url(../image/buss-7-64.png) !important;
+}
+.buss_8_64_64{
+	background-image: url(../image/buss-8-64.png) !important;
+}
+.buss_9_64_64{
+	background-image: url(../image/buss-9-64.png) !important;
+}
+.buss_10_64_64{
+	background-image: url(../image/buss-10-64.png) !important;
+}
+.icon_customer{
+    background-image: url(../image/icon_customer.png) !important;
+}
+.icon_address{
+    background-image: url(../image/icon_address.png) !important;
+}
+.icon_good{
+    background-image: url(../image/icon_good.png) !important;
+}
+.icon_goodtype{
+    background-image: url(../image/icon_goodtype.png) !important;
+}
+.icon_order{
+    background-image: url(../image/icon_order.png) !important;
+}
+.icon_orderdetail{
+    background-image: url(../image/icon_orderdetail.png) !important;
+}
+.icon_notice{
+    background-image: url(../image/icon_notice.png) !important;
+}
+.icon_feedback{
+    background-image: url(../image/icon_feedback.png) !important;
+}
+.icon_table{
+    background-image: url(../image/icon_table.png) !important;
+}
+.icon_tree{
+    background-image: url(../image/icon_tree.png) !important;
+}
+.icon_system{
+    background-image: url(../image/icon_system.png) !important;
+}
+.icon_admin{
+    background-image: url(../image/icon_admin.png) !important;
+}
+.table_remove{
+	background-image: url(../image/table_remove.gif) !important;
+}
+.table_add{
+	background-image: url(../image/table_add.png) !important;
+}
+.table_edit{
+	background-image: url(../image/table_edit.png) !important;
+}
+.table_save{
+	background-image: url(../image/tabel_save.png) !important;
+}
+.system_edit{
+	background-image: url(../image/system_edit.png) !important;
+}
+.system_out{
+	background-image: url(../image/system_out.png) !important;
+}
+.system_cascade{
+	background-image: url(../image/system_cascade.png) !important;
+}
+.system_tile{
+	background-image: url(../image/system_tile.png) !important;
+}
+.search{
+	background-image: url(../image/search.gif) !important;
+}
+.btn_Search{
+	background-image: url(../image/search.gif) !important;
+}
+.btn_Cancel{
+	background-image: url(../image/search.gif) !important;
+}
